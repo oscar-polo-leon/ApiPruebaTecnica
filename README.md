@@ -27,7 +27,7 @@ En sql server crear la base de datos.
 ```bash
 CHOUCAIRTESTING_PRUEBATECNICA
 ```
-### 5. Crear la base de datos 
+### 5. Añadir nueva migracion 
 Desde la consola powershell en visual studio ejecutar los siguiente comando.
 ```bash
 Add-Migration AddDescriptionToProduct
